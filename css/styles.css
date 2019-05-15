@@ -1,0 +1,198 @@
+/*  TOP */
+#header {
+  position: relative;
+  background: url(../images/header.jpg) no-repeat center;
+  background-size: cover;
+}
+#main{
+  position: relative;
+      background: #fff url(../images/overlay.png) repeat;
+
+}
+
+#footer{
+  background: #121212;
+
+  padding: 6em 0em;
+}
+
+
+#copyright{
+  background: black;
+}
+
+.container {
+  padding-top: 6%;
+  padding-bottom: 8%;
+
+}
+
+.title {
+  text-align: center;
+  font-size: 55px;
+  font-family: "Gugi";
+  font-weight: bold;
+  padding-bottom: 1px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.by-who {
+  text-align: center;
+  font-family: "Oxygen";
+  color: grey;
+  font-style: italic;
+}
+
+.navbar-2{
+  border-radius: 90px;
+}
+
+.navigation-bar {
+  padding-top: 5%;
+  text-align: center;
+}
+
+.nav-item {
+  padding: 0px 50px;
+}
+
+.nav-link {
+  font-size: 23px;
+}
+
+/* MIDDLE */
+.main-title {
+
+  padding-bottom: 3%;
+
+}
+
+.pic-section {
+  text-align: center;
+}
+
+.par {
+  text-align: center;
+}
+
+.row {
+  text-align: center;
+}
+
+.pic-Article {
+  text-align: center;
+  font-size: 15px;
+  line-height: 1.2;
+  font-weight: bold;
+  padding-top: 9%;
+  padding-bottom: 3%
+}
+
+.co{
+  padding-right: 1%;
+padding-left: 1%;
+}
+.image-full{
+  text-align: center;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+.btn-read {
+  width: 100%;
+}
+
+.hor-line {
+  padding-top: 4%;
+  padding-bottom: 3%;
+}
+.h-2-sec{
+
+  font-size: 30px;
+  font-weight: bold;
+  fon
+
+}
+.pic-paragh-section{
+  padding-right: 1%;
+  padding-left: : 1%;
+  padding-bottom: 7%
+}
+.image-full-2{
+width: 100%;
+}
+.paragh-title-bottom-article-section{
+
+padding-bottom: 3%;
+}
+.paragh-title-bottom-article-section-2{
+  padding-bottom: 5%;
+}
+.words{
+text-align: left;
+padding-left: 3%;
+
+
+}
+
+.long-photo-text{
+  font-size: 20px;
+  text-align: left;
+}
+.button-to-read{
+text-align: left;
+}
+.long-photo-text-2{
+  font-size: 16px;
+  text-align: left;
+}
+.make-red{
+  text-align: left;
+color: red;
+
+}
+.btn-read-2 {
+  text-align: left;
+  width: 30%;
+}
+.contain{
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+}
+.style1{
+  color: grey;
+}
+.float{
+  float: left;
+}
+.date-comments{
+  padding-top: 15px;
+  color: grey;
+}
+.sections{
+  padding-top: 10px;
+
+}
+.right-section{
+  color: white;
+  text-align: left;
+}
+.right-section-2{
+  line-height: 2;
+  font-weight:bold;
+
+  color: grey;
+  text-align: left;
+}
+
+.q{
+  padding-bottom: 1%;
+}
+
+.container-copy{
+font-weight: bold;
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top: 3%;
+}
